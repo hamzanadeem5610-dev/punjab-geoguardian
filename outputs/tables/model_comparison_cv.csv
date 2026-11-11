@@ -1,0 +1,4 @@
+overall_accuracy,macro_f1,kappa,note
+0.6739,0.6445,0.5108,thresholds tuned on the same samples (optimistic)
+0.9172,0.9171,0.8758,
+0.9161,0.916,0.8742,

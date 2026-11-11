@@ -1,0 +1,103 @@
+{
+  "selected_model": "random_forest",
+  "cv": {
+    "rule_based": {
+      "overall_accuracy": 0.6739,
+      "macro_f1": 0.6445,
+      "kappa": 0.5108,
+      "confusion_matrix": [
+        [
+          600,
+          0,
+          0
+        ],
+        [
+          0,
+          134,
+          466
+        ],
+        [
+          0,
+          121,
+          479
+        ]
+      ],
+      "note": "thresholds tuned on the same samples (optimistic)"
+    },
+    "random_forest": {
+      "overall_accuracy": 0.9172,
+      "macro_f1": 0.9171,
+      "kappa": 0.8758,
+      "confusion_matrix": [
+        [
+          600,
+          0,
+          0
+        ],
+        [
+          0,
+          542,
+          58
+        ],
+        [
+          1,
+          90,
+          509
+        ]
+      ]
+    },
+    "xgboost": {
+      "overall_accuracy": 0.9161,
+      "macro_f1": 0.916,
+      "kappa": 0.8742,
+      "confusion_matrix": [
+        [
+          600,
+          0,
+          0
+        ],
+        [
+          0,
+          536,
+          64
+        ],
+        [
+          1,
+          86,
+          513
+        ]
+      ]
+    }
+  },
+  "rule_thresholds": {
+    "initial": {
+      "ndvi_veg": 0.35,
+      "ndbi_built": -0.05,
+      "mndwi_water": 0.1
+    },
+    "initial_macro_f1": 0.6159,
+    "tuned": {
+      "ndvi_veg": 0.35,
+      "ndbi_built": 0.1,
+      "mndwi_water": -0.1
+    },
+    "tuned_macro_f1": 0.6445
+  },
+  "feature_importance": {
+    "NDVI": 0.2427,
+    "B11": 0.1379,
+    "B12": 0.1131,
+    "B2": 0.1106,
+    "NDBI": 0.0995,
+    "B8": 0.0909,
+    "B4": 0.086,
+    "MNDWI": 0.0691,
+    "B3": 0.0501
+  },
+  "n_training_rows": 1800,
+  "training_rows_per_class": {
+    "Vegetation": 600,
+    "Built-up": 600,
+    "Other": 600
+  }
+}

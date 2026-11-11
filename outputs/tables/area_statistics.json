@@ -1,0 +1,18 @@
+{
+  "total_aoi_area_km2": 225.0,
+  "analysed_area_km2": 225.0,
+  "nodata_area_km2": 0.0,
+  "vegetation_area_2019_km2": 83.395,
+  "vegetation_area_2025_km2": 73.09,
+  "builtup_area_2019_km2": 112.819,
+  "builtup_area_2025_km2": 118.424,
+  "net_builtup_growth_km2": 5.604,
+  "net_vegetation_change_km2": -10.305,
+  "conversion_candidate_km2": 14.402,
+  "agri_to_urban_conversion_km2": 12.31,
+  "agri_to_urban_conversion_ha": 1231.0,
+  "low_confidence_conversion_km2": 2.922,
+  "percent_aoi_converted": 5.47,
+  "percent_of_2019_vegetation_converted": 14.76,
+  "builtup_growth_percent": 5.0
+}

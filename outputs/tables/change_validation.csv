@@ -1,0 +1,2 @@
+true_positive,false_positive (false conversion),false_negative (missed change),true_negative,conversion_precision_users_acc,conversion_recall_producers_acc,change_overall_accuracy,error_adjusted_conversion_km2,ci95_km2,ci95_low_km2,ci95_high_km2
+7,8,7,38,0.467,0.5,0.75,33.696,22.777,10.919,56.472

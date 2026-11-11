@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+# raw downloaded stack is large and can be re-created from Earth Engine
+data/*.tif
+# offline test outputs
+data_synthetic/
+outputs_synthetic/
+*.zip

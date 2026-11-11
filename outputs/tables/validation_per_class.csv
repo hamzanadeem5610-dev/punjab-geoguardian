@@ -1,0 +1,4 @@
+class,reference_points,mapped_points,producers_accuracy,users_accuracy
+Vegetation,12,15,0.5,0.4
+Built-up,40,30,0.5,0.667
+Other,8,15,0.375,0.2

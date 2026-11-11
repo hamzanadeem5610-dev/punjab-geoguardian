@@ -1,0 +1,61 @@
+Point ID,Latitude,Longitude,Actual Class,Predicted Class,Correct / Incorrect,Actual Change,Predicted Change,Notes,Label Source
+1,31.382351,74.24283,Built-up,Built-up,Correct,yes,yes,"new houses on former farmland new housing scheme, was crop field in 2019 new road built on green land houses with some trees, was field in 2019 new building / construction completed",Manual visual check
+2,31.414685,74.218479,Built-up,Built-up,Correct,no,yes,"old built-up area, no change existing houses since 2019 existing road dense town area, no change",Manual visual check
+3,31.465452,74.259214,Built-up,Built-up,Correct,no,no,"old built-up area, no change existing houses since 2019 existing road dense town area, no change",Manual visual check
+4,31.371223,74.253119,Other,Other,Correct,no,no,"bare/fallow field, no buildings cleared plot, construction not started harvested field, bare soil canal / water brick kiln / open dusty area unclear image",Manual visual check
+5,31.415117,74.172396,Vegetation,Built-up,Incorrect,no,yes,"crop field, no change wheat field / green crops trees / orchard green but less dense than 2019 park / green belt",Manual visual check
+6,31.375064,74.231216,Built-up,Other,Incorrect,yes,no,,Manual visual check
+7,31.367961,74.235374,Other,Built-up,Incorrect,no,no,,Manual visual check
+8,31.411232,74.32539,Vegetation,Other,Incorrect,no,no,,Manual visual check
+9,31.387899,74.298212,Other,Built-up,Incorrect,no,yes,,Manual visual check
+10,31.360089,74.187704,Built-up,Other,Incorrect,no,no,,Manual visual check
+11,31.425951,74.246688,Other,Other,Correct,no,no,,Manual visual check
+12,31.441176,74.306549,Built-up,Other,Incorrect,no,no,,Manual visual check
+13,31.347504,74.254673,Built-up,Built-up,Correct,no,no,,Manual visual check
+14,31.401669,74.308628,Other,Built-up,Incorrect,yes,yes,,Manual visual check
+15,31.465403,74.235636,Built-up,Other,Incorrect,no,no,,Manual visual check
+16,31.385007,74.204737,Vegetation,Vegetation,Correct,no,no,,Manual visual check
+17,31.44871,74.19115,Other,Built-up,Incorrect,yes,yes,,Manual visual check
+18,31.395965,74.272277,Vegetation,Built-up,Incorrect,no,yes,,Manual visual check
+19,31.424762,74.291309,Built-up,Built-up,Correct,no,no,,Manual visual check
+20,31.365808,74.317513,Vegetation,Built-up,Incorrect,no,yes,,Manual visual check
+21,31.426656,74.213855,Built-up,Built-up,Correct,no,no,,Manual visual check
+22,31.417133,74.298625,Built-up,Vegetation,Incorrect,no,no,,Manual visual check
+23,31.443191,74.312217,Built-up,Built-up,Correct,no,no,,Manual visual check
+24,31.365689,74.2478,Built-up,Other,Incorrect,no,no,,Manual visual check
+25,31.445989,74.248107,Vegetation,Vegetation,Correct,no,no,,Manual visual check
+26,31.463758,74.262806,Other,Other,Correct,no,no,,Manual visual check
+27,31.423645,74.269012,Built-up,Vegetation,Incorrect,no,no,,Manual visual check
+28,31.37473,74.251093,Built-up,Vegetation,Incorrect,yes,no,,Manual visual check
+29,31.456308,74.253813,Built-up,Built-up,Correct,no,yes,,Manual visual check
+30,31.353973,74.219822,Built-up,Built-up,Correct,no,no,,Manual visual check
+31,31.446187,74.20622,Built-up,Vegetation,Incorrect,no,no,,Manual visual check
+32,31.37306,74.21325,Vegetation,Vegetation,Correct,no,no,,Manual visual check
+33,31.356656,74.293608,Vegetation,Vegetation,Correct,no,no,,Manual visual check
+34,31.427089,74.287819,Built-up,Other,Incorrect,no,no,,Manual visual check
+35,31.361507,74.227331,Vegetation,Built-up,Incorrect,no,yes,,Manual visual check
+36,31.398156,74.261005,Built-up,Built-up,Correct,yes,no,,Manual visual check
+37,31.388181,74.178627,Built-up,Other,Incorrect,yes,no,,Manual visual check
+38,31.404647,74.185742,Built-up,Built-up,Correct,no,no,,Manual visual check
+39,31.397185,74.204319,Built-up,Built-up,Correct,yes,no,,Manual visual check
+40,31.448033,74.258193,Built-up,Vegetation,Incorrect,no,no,,Manual visual check
+41,31.382557,74.311503,Other,Built-up,Incorrect,no,no,,Manual visual check
+42,31.437115,74.323205,Built-up,Built-up,Correct,no,yes,,Manual visual check
+43,31.377685,74.311433,Vegetation,Vegetation,Correct,no,no,,Manual visual check
+44,31.4495,74.231661,Built-up,Built-up,Correct,yes,yes,,Manual visual check
+45,31.341735,74.303916,Built-up,Other,Incorrect,yes,no,,Manual visual check
+46,31.419139,74.254318,Built-up,Built-up,Correct,no,no,,Manual visual check
+47,31.361962,74.306921,Vegetation,Built-up,Incorrect,no,no,,Manual visual check
+48,31.357156,74.223897,Built-up,Vegetation,Incorrect,no,no,,Manual visual check
+49,31.421899,74.203269,Built-up,Other,Incorrect,no,no,,Manual visual check
+50,31.416018,74.276541,Built-up,Built-up,Correct,yes,yes,,Manual visual check
+51,31.361332,74.198733,Vegetation,Vegetation,Correct,no,no,,Manual visual check
+52,31.432921,74.205596,Built-up,Vegetation,Incorrect,no,no,,Manual visual check
+53,31.347996,74.261818,Built-up,Other,Incorrect,yes,no,,Manual visual check
+54,31.458052,74.290848,Built-up,Vegetation,Incorrect,no,no,,Manual visual check
+55,31.35363,74.193542,Built-up,Built-up,Correct,yes,yes,,Manual visual check
+56,31.451104,74.24333,Built-up,Built-up,Correct,no,no,,Manual visual check
+57,31.346998,74.276754,Built-up,Built-up,Correct,yes,yes,,Manual visual check
+58,31.421591,74.226523,Built-up,Vegetation,Incorrect,no,no,,Manual visual check
+59,31.397803,74.294562,Built-up,Other,Incorrect,no,no,,Manual visual check
+60,31.35107,74.202605,Built-up,Built-up,Correct,no,no,,Manual visual check
